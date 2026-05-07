@@ -1,0 +1,15 @@
+
+HOW TO PUBLISH THE WEBSITE 🌸
+
+1. Open GitHub
+2. Create a new repository
+3. Upload index.html and style.css
+4. Go to Settings → Pages
+5. Choose Deploy from Branch
+6. Select main branch
+7. Save
+
+After a few minutes you will get a link like:
+https://yourname.github.io/repository-name/
+
+The website is ready for school submission 💖
